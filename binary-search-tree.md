@@ -20,3 +20,5 @@ Root->7
 
 8'in sağında 9 bulunur.  
 0'ın sağında 2 bulunur.
+
+www.patika.dev
